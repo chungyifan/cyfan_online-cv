@@ -9,13 +9,13 @@ sidebar:
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Chungyi Fan
-    tagline: User Experience Researcher
+    name: Alan doe
+    tagline: Front-end developer
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: fancy72@gmail.com
-    phone: +86 151 2107 4807
+    email: alandoe@gmail.com
+    phone: 00 000 000
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     github: sharu725
@@ -23,10 +23,10 @@ sidebar:
 
     languages:
         - language:
-          idiom: Mandarin
+          idiom: English
           level: Native
         - language:
-          idiom: English
+          idiom: French
           level: Professional
         - language:
           idiom: Spanish
